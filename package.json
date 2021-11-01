@@ -1,0 +1,24 @@
+{
+  "name": "herokutest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElayGelbart/HerokuTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ua-parser-js": "^1.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/ElayGelbart/HerokuTest/issues"
+  },
+  "homepage": "https://github.com/ElayGelbart/HerokuTest#readme"
+}
